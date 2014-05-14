@@ -1,0 +1,11 @@
+name: ChannelChat
+main: me.thijs_a.channelchat.Main
+version: 1.0
+author: thijs_a
+commands:
+    chaton:
+        description: turn chat on
+        permission: buynodes.buy
+    chatoff:
+        description: turn chat off
+        permission: buynodes.buy
